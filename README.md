@@ -13,7 +13,7 @@
 
 ## 🛠 Skills
 - Python,
-- Libraries[numpy,pandas,matplotlib,seaborn,sklearn],
+- Libraries[numpy,pandas,matplotlib,seaborn,sklearn,ydata_profiling],
 - Machine learning algorithms,
 - Jupyter notebook
 
